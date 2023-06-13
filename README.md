@@ -1,2 +1,1 @@
-# prep-course-henry-mod2-
-Repositorio de prueba prep-curse
+Este proyecto es  una prueba de como crear un repositorio y clonarlo
